@@ -10,3 +10,17 @@ Polynomial format: A polynomial is described by several lines. Each line has two
 
 
 ## Assignment 2
+Implememt addition and multiplication of maxrix.
+Read two matrices from input file and print the result to the output file.
+Assume the maxrix is sparse, so store the matrix elements in a linked list, not a 2D array.
+Matrix element format in input/output file: row_num col_num value
+
+## Alternative assignment 1
+Input text file: 5*5 bingo, a list of numbers called out during a bingo game(in order).
+Output: Print when does the "Bingo" completed
+
+## Alternative assignment 2
+Find every assending order N-character strings consist of characters from M input characters.
+3 <= N <= M <= 15
+Input: N, M, (M characters that divided by blank)
+
